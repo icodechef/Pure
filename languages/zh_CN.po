@@ -1,0 +1,277 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pure\n"
+"POT-Creation-Date: 2015-12-30 14:17+0800\n"
+"PO-Revision-Date: 2015-12-30 14:18+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "抱歉！您要找的页面不存在 !"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "这里好像什么都没有，请试试其他超链接或搜索"
+
+#: archive.php:49 index.php:45 search.php:38
+msgid "Previous page"
+msgstr "上一页"
+
+#: archive.php:50 index.php:46 search.php:39
+msgid "Next page"
+msgstr "下一页"
+
+#: archive.php:51 content-page.php:29 content.php:50 index.php:47
+#: search.php:40
+msgid "Page"
+msgstr ""
+
+#: author.php:12
+msgid "Published by"
+msgstr "发布者"
+
+#: comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "在 &ldquo;%2$s&rdquo; 上有 %1$s 条评论"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "评论已关闭."
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "未找到"
+
+#: content-none.php:22
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:26
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "抱歉，没有符合您搜索条件的结果。请换其它关键词再试"
+
+#: content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "这儿似乎什么都没有，试试搜索？"
+
+#: content-page.php:25 content.php:46
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:35 content-search.php:23 content.php:29
+msgid "Edit"
+msgstr "编辑"
+
+#: content.php:40 inc/template-tags.php:219
+#, php-format
+msgid "Continue reading %s"
+msgstr "继续阅读 %s"
+
+#: footer.php:17
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:17
+msgid "Semantic Personal Publishing Platform"
+msgstr ""
+
+#: functions.php:63
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:64
+msgid "Social Links Menu"
+msgstr ""
+
+#: functions.php:96
+msgid "Widget Area"
+msgstr ""
+
+#: functions.php:98
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: inc/customizer.php:24
+msgid "Profile"
+msgstr "个人简介"
+
+#: inc/customizer.php:25
+msgid "Add profile here. This may be shown publicly"
+msgstr "添加个人简介。信息可在首页显示"
+
+#: inc/customizer.php:36
+msgid "Front page displays"
+msgstr "首页显示"
+
+#: inc/customizer.php:40
+msgid "Show on"
+msgstr "显示"
+
+#: inc/customizer.php:41
+msgid "Show off"
+msgstr "隐藏"
+
+#: inc/customizer.php:52
+msgid "Email address"
+msgstr "邮箱地址"
+
+#: inc/customizer.php:64
+msgid "Nickname"
+msgstr "昵称"
+
+#: inc/customizer.php:76
+msgid "Description"
+msgstr "个人说明"
+
+#: inc/customizer.php:83
+msgid "Copyright"
+msgstr "版权"
+
+#: inc/customizer.php:84
+msgid "Add copyright here. This may be shown publicly"
+msgstr "添加版权信息。信息可在首页显示"
+
+#: inc/customizer.php:95
+msgid "ICP Licensing"
+msgstr "备案号"
+
+#: inc/template-tags.php:47
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: inc/template-tags.php:50
+msgid "Older Comments"
+msgstr "较旧的评论"
+
+#: inc/template-tags.php:54
+msgid "Newer Comments"
+msgstr "较新的评论"
+
+#: inc/template-tags.php:73
+msgid "Featured"
+msgstr "推荐"
+
+#: inc/template-tags.php:78
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "作者"
+
+#: inc/template-tags.php:95
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "发表于"
+
+#: inc/template-tags.php:103
+msgid "Leave a comment"
+msgstr "评论"
+
+#: inc/template-tags.php:103
+msgid "1 Comment"
+msgstr "1 条评论"
+
+#: inc/template-tags.php:103
+msgid "% Comments"
+msgstr "% 条评论"
+
+#: inc/template-tags.php:119
+msgctxt "Used between list items, there is a space after the comma."
+msgid " "
+msgstr ""
+
+#: inc/template-tags.php:122
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr ""
+
+#: inc/template-tags.php:141
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr ""
+
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr "%s 的搜索结果"
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:15
+msgctxt "submit button"
+msgid "Search"
+msgstr "搜索"
+
+#. Theme Name of the plugin/theme
+msgid "Pure"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://github.com/icodechef/Pure"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "简单的个人博客模板"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Lost_sky"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://icodechef.github.io/"
+msgstr ""
+
+#~ msgid "Next"
+#~ msgstr "下一篇"
+
+#~ msgid "Next post:"
+#~ msgstr "下篇文章"
+
+#~ msgid "Previous"
+#~ msgstr "上一篇"
+
+#~ msgid "Previous post:"
+#~ msgstr "上篇文章"
+
+#~ msgid "Add profile here"
+#~ msgstr "添加个人说明"
+
+#~ msgid "View all posts by %s"
+#~ msgstr "查看 %s 的所有文章"
+
+#~ msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+#~ msgstr "评论<span class=\"screen-reader-text\"> on %s</span>"
+
+#~ msgid "1 Comment<span class=\"screen-reader-text\"> on %s</span>"
+#~ msgstr "1 条评论<span class=\"screen-reader-text\"> on %s</span>"
