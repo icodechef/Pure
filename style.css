@@ -294,6 +294,7 @@ fieldset[disabled] .btn-custom.active {
 #primary {
     border-right: 1px solid #eee;
     padding-top: 3.0769%;
+    padding-right: 3.0769%;
 }
 
 #secondary {
@@ -410,7 +411,6 @@ fieldset[disabled] .btn-custom.active {
  */
 .hentry {
     position: relative;
-    margin-bottom: 3.8462%;
 }
 
 .entry-header {
