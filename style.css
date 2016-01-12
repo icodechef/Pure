@@ -462,12 +462,6 @@ fieldset[disabled] .btn-custom.active {
     hyphens: auto;
     word-wrap: break-word;
 }
-.entry-content pre {
-    background-color: #272822;
-    border-color: #272822;
-    overflow: hidden;
-    color: #93a1a1;
-}
 .says, .screen-reader-text {
     clip: rect(1px, 1px, 1px, 1px);
     height: 1px;
