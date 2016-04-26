@@ -517,6 +517,7 @@ fieldset[disabled] .btn-custom.active {
     position: relative;
     text-align: center;
     display: block;
+    margin-bottom: 3.8462%;
 }
 .pagination .page-numbers {
     line-height: 1.8em;
